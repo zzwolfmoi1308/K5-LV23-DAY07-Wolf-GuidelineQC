@@ -1,9 +1,9 @@
 # Thông tin nhóm
 
-- Tên nhóm:
-- Mã thành viên (ba chữ số):
-- Người điều phối:
-- Người review bản cuối:
+- Tên nhóm: Wolf
+- Mã thành viên (ba chữ số): 03225, 03246
+- Người điều phối: 03225
+- Người review bản cuối: 03246
 - Commit chốt bài (điền ở kênh nộp sau khi commit):
 
 ## Kết quả tóm tắt (điền cuối bài)
