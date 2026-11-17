@@ -1,0 +1,569 @@
+case_id,image,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline,nguoi_chot,phieu_sua,kiem_lai,pham_vi
+C001,img_001.jpg,Giu box truck cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box truck 225,246 (xac nhan),anh
+C002,img_001.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C003,img_001.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C004,img_001.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C005,img_001.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C006,img_001.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C007,img_001.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C008,img_001.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C009,img_001.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C010,img_002.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-03,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C011,img_002.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-03,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C012,img_002.jpg,Giu box van cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box van 225,246 (xac nhan),anh
+C013,img_002.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-03,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C014,img_002.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-03,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C015,img_002.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-03,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C016,img_002.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-03,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C017,img_002.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-03,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C018,img_002.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C019,img_002.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C020,img_002.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C021,img_002.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C022,img_003.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C023,img_003.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C024,img_003.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C025,img_003.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C026,img_003.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C027,img_003.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C028,img_003.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C029,img_003.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C030,img_003.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C031,img_003.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C032,img_003.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C033,img_003.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C034,img_003.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C035,img_003.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C036,img_003.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C037,img_003.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C038,img_003.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C039,img_003.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C040,img_003.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C041,img_003.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C042,img_003.jpg,Giu box bicycle cua 225 theo taxonomy v1.0 (246 bo sot),R-08,v1.1,225,Giu box bicycle 225,246 (xac nhan),anh
+C043,img_003.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C044,img_003.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C045,img_003.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C046,img_003.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C047,img_003.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C048,img_003.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C049,img_003.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C050,img_003.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C051,img_003.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C052,img_003.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C053,img_003.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C054,img_003.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C055,img_003.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C056,img_003.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C057,img_003.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C058,img_004.jpg,Giu box tuk_tuk cua 225 theo taxonomy v1.0 (246 bo sot),R-07,v1.1,225,Giu box tuk_tuk 225,246 (xac nhan),anh
+C059,img_004.jpg,Giu box tuk_tuk cua 225 theo taxonomy v1.0 (246 bo sot),R-07,v1.1,225,Giu box tuk_tuk 225,246 (xac nhan),anh
+C060,img_004.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C061,img_004.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C062,img_005.jpg,Giu box van cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box van 225,246 (xac nhan),anh
+C063,img_005.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C064,img_005.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C065,img_005.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C066,img_005.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C067,img_005.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C068,img_005.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C069,img_005.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C070,img_005.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C071,img_005.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C072,img_005.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C073,img_005.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C074,img_005.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C075,img_005.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C076,img_006.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C077,img_006.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C078,img_006.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C079,img_006.jpg,Giu box bus cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box bus 225,246 (xac nhan),anh
+C080,img_006.jpg,Giu box bicycle cua 225 theo taxonomy v1.0 (246 bo sot),R-08,v1.1,225,Giu box bicycle 225,246 (xac nhan),anh
+C081,img_006.jpg,Giu box bicycle cua 225 theo taxonomy v1.0 (246 bo sot),R-08,v1.1,225,Giu box bicycle 225,246 (xac nhan),anh
+C082,img_006.jpg,Giu box bicycle cua 225 theo taxonomy v1.0 (246 bo sot),R-08,v1.1,225,Giu box bicycle 225,246 (xac nhan),anh
+C083,img_006.jpg,Giu box bicycle cua 225 theo taxonomy v1.0 (246 bo sot),R-08,v1.1,225,Giu box bicycle 225,246 (xac nhan),anh
+C084,img_006.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C085,img_006.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C086,img_006.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C087,img_006.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C088,img_006.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C089,img_006.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C090,img_006.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C091,img_006.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C092,img_006.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C093,img_006.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C094,img_006.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C095,img_006.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C096,img_006.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C097,img_006.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C098,img_006.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C099,img_006.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C100,img_006.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C101,img_006.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C102,img_006.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C103,img_006.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C104,img_006.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C105,img_006.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C106,img_007.jpg,Giu box truck cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box truck 225,246 (xac nhan),anh
+C107,img_007.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C108,img_007.jpg,Chon lop chuan cua 225 (truck) theo taxonomy v1.0,R-01,v1.1,225,Chon lop theo 225,246 (xac nhan),anh
+C109,img_007.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C110,img_008.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C111,img_008.jpg,Giu box truck cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box truck 225,246 (xac nhan),anh
+C112,img_008.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C113,img_008.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C114,img_008.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C115,img_008.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C116,img_008.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C117,img_008.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C118,img_008.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C119,img_008.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C120,img_008.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C121,img_008.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C122,img_008.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C123,img_008.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C124,img_008.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C125,img_008.jpg,Giu box truck cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box truck 225,246 (xac nhan),anh
+C126,img_008.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C127,img_008.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C128,img_008.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C129,img_008.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C130,img_008.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C131,img_008.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C132,img_008.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C133,img_008.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C134,img_008.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C135,img_008.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C136,img_008.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C137,img_008.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C138,img_008.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C139,img_008.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C140,img_008.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C141,img_009.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C142,img_009.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C143,img_009.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C144,img_009.jpg,Giu box bus cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box bus 225,246 (xac nhan),anh
+C145,img_009.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C146,img_009.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C147,img_009.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C148,img_009.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C149,img_009.jpg,Giu box bicycle cua 225 theo taxonomy v1.0 (246 bo sot),R-08,v1.1,225,Giu box bicycle 225,246 (xac nhan),anh
+C150,img_009.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C151,img_009.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C152,img_009.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C153,img_009.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C154,img_009.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C155,img_009.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C156,img_009.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C157,img_010.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C158,img_010.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C159,img_010.jpg,Giu box bicycle cua 225 theo taxonomy v1.0 (246 bo sot),R-08,v1.1,225,Giu box bicycle 225,246 (xac nhan),anh
+C160,img_010.jpg,Loai bo box motorcycle cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box motorcycle 246,246 (xac nhan),anh
+C161,img_010.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C162,img_010.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C163,img_010.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C164,img_010.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C165,img_010.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C166,img_010.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C167,img_011.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C168,img_011.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C169,img_011.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C170,img_011.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C171,img_011.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C172,img_011.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C173,img_011.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C174,img_011.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C175,img_011.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C176,img_011.jpg,Giu box van cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box van 225,246 (xac nhan),anh
+C177,img_011.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C178,img_011.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C179,img_011.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C180,img_011.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C181,img_011.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C182,img_011.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C183,img_011.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C184,img_011.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C185,img_012.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C186,img_012.jpg,Giu box truck cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box truck 225,246 (xac nhan),anh
+C187,img_012.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C188,img_012.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C189,img_012.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C190,img_013.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C191,img_013.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C192,img_013.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C193,img_013.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C194,img_013.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C195,img_013.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C196,img_013.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C197,img_013.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C198,img_014.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C199,img_014.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C200,img_014.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C201,img_014.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C202,img_014.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C203,img_014.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C204,img_014.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C205,img_014.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C206,img_015.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C207,img_015.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C208,img_015.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C209,img_015.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C210,img_015.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C211,img_015.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C212,img_016.jpg,Giu box van cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box van 225,246 (xac nhan),anh
+C213,img_016.jpg,Giu box tuk_tuk cua 225 theo taxonomy v1.0 (246 bo sot),R-07,v1.1,225,Giu box tuk_tuk 225,246 (xac nhan),anh
+C214,img_016.jpg,Giu box tuk_tuk cua 225 theo taxonomy v1.0 (246 bo sot),R-07,v1.1,225,Giu box tuk_tuk 225,246 (xac nhan),anh
+C215,img_016.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C216,img_016.jpg,Giu box van cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box van 225,246 (xac nhan),anh
+C217,img_016.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C218,img_016.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C219,img_016.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C220,img_018.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C221,img_018.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C222,img_018.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C223,img_018.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C224,img_018.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C225,img_019.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C226,img_019.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C227,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C228,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C229,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C230,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C231,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C232,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C233,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C234,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C235,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C236,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C237,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C238,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C239,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C240,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C241,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C242,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C243,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C244,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C245,img_019.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C246,img_019.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C247,img_019.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C248,img_019.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C249,img_019.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C250,img_019.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C251,img_019.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C252,img_019.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C253,img_019.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C254,img_019.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C255,img_020.jpg,Loai bo box car cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box car 246,246 (xac nhan),anh
+C256,img_021.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C257,img_021.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C258,img_021.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C259,img_021.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C260,img_021.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C261,img_021.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C262,img_021.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C263,img_021.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C264,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C265,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C266,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C267,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C268,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C269,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C270,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C271,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C272,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C273,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C274,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C275,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C276,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C277,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C278,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C279,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C280,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C281,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C282,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C283,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C284,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C285,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C286,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C287,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C288,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C289,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C290,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C291,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C292,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C293,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C294,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C295,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C296,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C297,img_021.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C298,img_021.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C299,img_021.jpg,Giu box bus cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box bus 225,246 (xac nhan),anh
+C300,img_021.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C301,img_021.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C302,img_021.jpg,Loai bo box motorcycle cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box motorcycle 246,246 (xac nhan),anh
+C303,img_021.jpg,Loai bo box motorcycle cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box motorcycle 246,246 (xac nhan),anh
+C304,img_021.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C305,img_021.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C306,img_021.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C307,img_021.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C308,img_021.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C309,img_021.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C310,img_021.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C311,img_021.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C312,img_021.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C313,img_021.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C314,img_021.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C315,img_021.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C316,img_021.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C317,img_021.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C318,img_021.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C319,img_021.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C320,img_021.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C321,img_021.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C322,img_021.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C323,img_021.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C324,img_021.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C325,img_022.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C326,img_022.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C327,img_022.jpg,Chon lop chuan cua 225 (tuk_tuk) theo taxonomy v1.0,R-01,v1.1,225,Chon lop theo 225,246 (xac nhan),anh
+C328,img_023.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C329,img_023.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C330,img_023.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C331,img_023.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C332,img_023.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C333,img_023.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C334,img_023.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C335,img_023.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C336,img_023.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C337,img_023.jpg,Giu box tuk_tuk cua 225 theo taxonomy v1.0 (246 bo sot),R-07,v1.1,225,Giu box tuk_tuk 225,246 (xac nhan),anh
+C338,img_023.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C339,img_023.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C340,img_023.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C341,img_023.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C342,img_023.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C343,img_023.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C344,img_024.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C345,img_024.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-03,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C346,img_024.jpg,Loai bo box car cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box car 246,246 (xac nhan),anh
+C347,img_024.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C348,img_024.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C349,img_024.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C350,img_025.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C351,img_025.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C352,img_025.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C353,img_025.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C354,img_025.jpg,Giu box tuk_tuk cua 225 theo taxonomy v1.0 (246 bo sot),R-07,v1.1,225,Giu box tuk_tuk 225,246 (xac nhan),anh
+C355,img_025.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C356,img_025.jpg,Loai bo box motorcycle cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box motorcycle 246,246 (xac nhan),anh
+C357,img_025.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C358,img_025.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C359,img_025.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C360,img_025.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C361,img_025.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C362,img_025.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C363,img_025.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C364,img_025.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C365,img_025.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C366,img_025.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C367,img_025.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C368,img_025.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C369,img_025.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C370,img_026.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C371,img_026.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C372,img_026.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C373,img_026.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C374,img_027.jpg,Loai bo box car cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box car 246,246 (xac nhan),anh
+C375,img_028.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C376,img_028.jpg,Chon lop chuan cua 225 (truck) theo taxonomy v1.0,R-01,v1.1,225,Chon lop theo 225,246 (xac nhan),anh
+C377,img_028.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C378,img_029.jpg,Giu box bicycle cua 225 theo taxonomy v1.0 (246 bo sot),R-08,v1.1,225,Giu box bicycle 225,246 (xac nhan),anh
+C379,img_029.jpg,Giu box bicycle cua 225 theo taxonomy v1.0 (246 bo sot),R-08,v1.1,225,Giu box bicycle 225,246 (xac nhan),anh
+C380,img_029.jpg,Giu box bicycle cua 225 theo taxonomy v1.0 (246 bo sot),R-08,v1.1,225,Giu box bicycle 225,246 (xac nhan),anh
+C381,img_029.jpg,Giu box bicycle cua 225 theo taxonomy v1.0 (246 bo sot),R-08,v1.1,225,Giu box bicycle 225,246 (xac nhan),anh
+C382,img_029.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C383,img_029.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C384,img_029.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C385,img_029.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C386,img_029.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C387,img_029.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C388,img_029.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C389,img_029.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C390,img_030.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C391,img_030.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C392,img_030.jpg,Loai bo box motorcycle cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box motorcycle 246,246 (xac nhan),anh
+C393,img_030.jpg,Loai bo box motorcycle cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box motorcycle 246,246 (xac nhan),anh
+C394,img_030.jpg,Loai bo box motorcycle cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box motorcycle 246,246 (xac nhan),anh
+C395,img_030.jpg,Loai bo box motorcycle cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box motorcycle 246,246 (xac nhan),anh
+C396,img_030.jpg,Loai bo box motorcycle cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box motorcycle 246,246 (xac nhan),anh
+C397,img_030.jpg,Loai bo box motorcycle cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box motorcycle 246,246 (xac nhan),anh
+C398,img_030.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C399,img_030.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C400,img_030.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C401,img_030.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C402,img_030.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C403,img_030.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C404,img_030.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C405,img_030.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C406,img_030.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C407,img_030.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C408,img_030.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C409,img_030.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C410,img_030.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C411,img_030.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C412,img_030.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C413,img_031.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C414,img_031.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C415,img_031.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C416,img_031.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C417,img_031.jpg,Giu box bus cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box bus 225,246 (xac nhan),anh
+C418,img_031.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C419,img_031.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C420,img_031.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C421,img_031.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C422,img_031.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C423,img_031.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C424,img_031.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C425,img_032.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C426,img_032.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C427,img_032.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C428,img_032.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C429,img_032.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C430,img_032.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C431,img_032.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C432,img_032.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C433,img_032.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C434,img_032.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C435,img_032.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C436,img_032.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C437,img_032.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C438,img_032.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C439,img_032.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C440,img_032.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C441,img_032.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C442,img_032.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C443,img_032.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C444,img_032.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C445,img_032.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C446,img_032.jpg,Loai bo box car cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box car 246,246 (xac nhan),anh
+C447,img_032.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C448,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C449,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C450,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C451,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C452,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C453,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C454,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C455,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C456,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C457,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C458,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C459,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C460,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C461,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C462,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C463,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C464,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C465,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C466,img_032.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C467,img_032.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C468,img_032.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C469,img_032.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C470,img_032.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C471,img_032.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C472,img_032.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C473,img_032.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C474,img_032.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C475,img_032.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C476,img_034.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C477,img_034.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C478,img_034.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C479,img_034.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C480,img_034.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C481,img_034.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C482,img_034.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C483,img_034.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C484,img_034.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C485,img_034.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C486,img_034.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C487,img_034.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C488,img_034.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C489,img_034.jpg,Giu box bicycle cua 225 theo taxonomy v1.0 (246 bo sot),R-08,v1.1,225,Giu box bicycle 225,246 (xac nhan),anh
+C490,img_034.jpg,Giu box bicycle cua 225 theo taxonomy v1.0 (246 bo sot),R-08,v1.1,225,Giu box bicycle 225,246 (xac nhan),anh
+C491,img_034.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C492,img_034.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C493,img_034.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C494,img_034.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C495,img_034.jpg,Loai bo box motorcycle cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box motorcycle 246,246 (xac nhan),anh
+C496,img_034.jpg,Loai bo box motorcycle cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box motorcycle 246,246 (xac nhan),anh
+C497,img_034.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C498,img_034.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C499,img_034.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C500,img_034.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C501,img_034.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C502,img_034.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C503,img_034.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C504,img_034.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C505,img_034.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C506,img_034.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C507,img_034.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C508,img_034.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C509,img_035.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C510,img_035.jpg,Giu box tuk_tuk cua 225 theo taxonomy v1.0 (246 bo sot),R-07,v1.1,225,Giu box tuk_tuk 225,246 (xac nhan),anh
+C511,img_035.jpg,Giu box tuk_tuk cua 225 theo taxonomy v1.0 (246 bo sot),R-07,v1.1,225,Giu box tuk_tuk 225,246 (xac nhan),anh
+C512,img_035.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C513,img_035.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C514,img_035.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C515,img_035.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C516,img_035.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C517,img_035.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C518,img_035.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C519,img_035.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C520,img_035.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C521,img_035.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C522,img_035.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C523,img_036.jpg,Giu box truck cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box truck 225,246 (xac nhan),anh
+C524,img_036.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C525,img_036.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C526,img_036.jpg,Loai bo box motorcycle cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box motorcycle 246,246 (xac nhan),anh
+C527,img_036.jpg,Loai bo box motorcycle cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box motorcycle 246,246 (xac nhan),anh
+C528,img_036.jpg,Loai bo box motorcycle cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box motorcycle 246,246 (xac nhan),anh
+C529,img_036.jpg,Loai bo box motorcycle cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box motorcycle 246,246 (xac nhan),anh
+C530,img_036.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C531,img_036.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C532,img_036.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C533,img_036.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C534,img_036.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C535,img_036.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C536,img_037.jpg,Giu box truck cua 225 theo taxonomy v1.0 (246 bo sot),R-09,v1.1,225,Giu box truck 225,246 (xac nhan),anh
+C537,img_037.jpg,Giu box bus cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box bus 225,246 (xac nhan),anh
+C538,img_037.jpg,Giu box truck cua 225 theo taxonomy v1.0 (246 bo sot),R-09,v1.1,225,Giu box truck 225,246 (xac nhan),anh
+C539,img_039.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C540,img_039.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C541,img_039.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C542,img_039.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C543,img_039.jpg,Giu box person cua 225 theo taxonomy v1.0 (246 bo sot),R-02,v1.1,225,Giu box person 225,246 (xac nhan),anh
+C544,img_039.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C545,img_039.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C546,img_039.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C547,img_039.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C548,img_039.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C549,img_039.jpg,Giu box motorcycle cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box motorcycle 225,246 (xac nhan),anh
+C550,img_039.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C551,img_039.jpg,Loai bo box person cua 246 (ve thua/sai quy tac theo 225),R-01,v1.1,225,Loai box person 246,246 (xac nhan),anh
+C552,img_039.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C553,img_039.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C554,img_039.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C555,img_039.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C556,img_039.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C557,img_039.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C558,img_039.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C559,img_039.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C560,img_039.jpg,Giu box 225 om sat pixel nhin thay theo R-01,R-01,v1.1,225,Giu box 225,246 (xac nhan),anh
+C561,img_039.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C562,img_040.jpg,Giu vung ignore_region cua 225 theo R-06,R-06,v1.1,225,Giu ignore 225,246 (xac nhan),anh
+C563,img_040.jpg,Giu box tuk_tuk cua 225 theo taxonomy v1.0 (246 bo sot),R-07,v1.1,225,Giu box tuk_tuk 225,246 (xac nhan),anh
+C564,img_040.jpg,Giu box bus cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box bus 225,246 (xac nhan),anh
+C565,img_040.jpg,Giu box tuk_tuk cua 225 theo taxonomy v1.0 (246 bo sot),R-07,v1.1,225,Giu box tuk_tuk 225,246 (xac nhan),anh
+C566,img_040.jpg,Giu box car cua 225 theo taxonomy v1.0 (246 bo sot),R-01,v1.1,225,Giu box car 225,246 (xac nhan),anh
+C567,img_040.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh
+C568,img_040.jpg,Giu thuoc tinh occluded_level dinh luong theo 225,R-01,v1.1,225,Thuoc tinh theo 225,246 (xac nhan),anh

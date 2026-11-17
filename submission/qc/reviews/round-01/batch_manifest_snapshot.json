@@ -1,0 +1,466 @@
+{
+  "intended_use": "Thực hành đặc tả và QC nhãn 2D trong Day 07.",
+  "limitations": "Tập ảnh tuyển chọn để luyện ca biên; độ đại diện cho dữ liệu vận hành chưa được đánh giá.",
+  "format": "COCO 1.0 bbox góc trên trái [x, y, w, h] theo pixel",
+  "taxonomy_version": "v1.0",
+  "taxonomy": "submission\\taxonomy.json",
+  "guideline": "submission\\guidelines\\guideline_v1.1_calibrated.md",
+  "labels": {
+    "path": "submission\\qc\\labels_calibrated.json",
+    "sha256": "9f1d2ebb529fb17855cb9692d8bd07c997dc7388347336edd4f51dffe5fbe4eb"
+  },
+  "inputs_sha256": {
+    "submission\\qc\\assignment.csv": "a3aeecc8999ffc1344595e5bc4758748584f6ca7875c9a2f00bea989fa5c494e",
+    "submission\\qc\\iaa_summary.json": "f8c713e54852aed32386d99c32e75563eeaf4d2181056626c1141543c7f5724d",
+    "submission\\qc\\calibration_decisions.csv": "640ca790b7fdd3a45d24aab1773c4ce376e649307d6ba32394798ce5920180c2",
+    "submission\\qc\\calibration_context.json": "14dd1cf916cb2f9eb20cec36a76f68849ed84c456c6b34f63a8b5a4d80c4440c",
+    "submission\\guidelines\\guideline_v1.1_calibrated.md": "0b419b229aa4063b6a9b96e35c1391c0e0381b858343ed15b0ee2dcbbb3e0915",
+    "submission\\guideline_change.json": "5a4f343c70c5ed4f7f288059f97eb1d7e7eb6cfbaf577afbbd183dcedbbd72ef",
+    "submission\\taxonomy.json": "144496ae11362e65dbd9b8d04ffae28fe186fd92bb00d922ad432f50d3a1c619",
+    "data\\ATTRIBUTION.csv": "c31a270de08f6e2862b84df18a4a05e66dc58526086ec61b258b44cda52b7b2c",
+    "submission\\qc\\labels_calibrated_251b3167dbcb205b.json": "34535f0246ea555fa0f091857c476c531462814f2036460915eb05bedb2b2adb"
+  },
+  "csv_sha256": "6a401a08bebcb29e411c2b6876dc5fc5e50cc62b1a66308e08c3f13960756808",
+  "images": [
+    {
+      "file": "img_001.jpg",
+      "sha256": "74b15d37b53d99d6cb8b3f7648d064ff89fedf0662df5ca1594c2c9c8454ba88",
+      "source": {
+        "file": "img_001.jpg",
+        "original_title": "DFC 3741 A busy street-side eatery at dusk patrons sit under string lights chatting and enjoying drinks while a tattooed woman in a black dress stands beside a weathered pickup truck parked in front.jpg",
+        "author": "PattayaPatrol",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:DFC_3741_A_busy_street-side_eatery_at_dusk_patrons_sit_under_string_lights_chatting_and_enjoying_drinks_while_a_tattooed_woman_in_a_black_dress_stands_beside_a_weathered_pickup_truck_parked_in_front.jpg"
+      }
+    },
+    {
+      "file": "img_002.jpg",
+      "sha256": "7cfa98eb24c504aa15496a82a714e28cc318447d77d0cb3881f91d649374d3de",
+      "source": {
+        "file": "img_002.jpg",
+        "original_title": "Renault 380 car carrier (17688579282).jpg",
+        "author": "Bob Adams from Amanzimtoti, South Africa",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Renault_380_car_carrier_(17688579282).jpg"
+      }
+    },
+    {
+      "file": "img_003.jpg",
+      "sha256": "8c2682682b89753bfa9de78b9dea93abb91937d2baed53fbf8c9fce6aa6a604a",
+      "source": {
+        "file": "img_003.jpg",
+        "original_title": "Street vendor Jackfruit Hanoi Vietnam.jpg",
+        "author": "Célestine M.C. Leroy",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Street_vendor_Jackfruit_Hanoi_Vietnam.jpg"
+      }
+    },
+    {
+      "file": "img_004.jpg",
+      "sha256": "dcda047904cbf2cedbe55ce1e179c94e7630cc6bef7fbec597df1472ce2889b7",
+      "source": {
+        "file": "img_004.jpg",
+        "original_title": "DFC 2465 Two brightly painted blue tuk-tuks parked side by side on a city sidewalk at night ready to ferry passengers.jpg",
+        "author": "PattayaPatrol",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:DFC_2465_Two_brightly_painted_blue_tuk-tuks_parked_side_by_side_on_a_city_sidewalk_at_night_ready_to_ferry_passengers.jpg"
+      }
+    },
+    {
+      "file": "img_005.jpg",
+      "sha256": "8807a048e945b0eff1a6489a66f3cf97751da88f95b6b661e5912e9d8f1793a4",
+      "source": {
+        "file": "img_005.jpg",
+        "original_title": "Ho Chi Minh City, Vietnam, Motorbike riders.jpg",
+        "author": "Vyacheslav Argenberg",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_City,_Vietnam,_Motorbike_riders.jpg"
+      }
+    },
+    {
+      "file": "img_006.jpg",
+      "sha256": "0d5ba9d4e419511a0d7a937eec2a2f4a2a22a095964718e75ca8600250fea203",
+      "source": {
+        "file": "img_006.jpg",
+        "original_title": "Traffic Jam, Cyclo Tour, Hue, Vietnam (7073456573).jpg",
+        "author": "David McKelvey from Brisbane, Australia",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Traffic_Jam,_Cyclo_Tour,_Hue,_Vietnam_(7073456573).jpg"
+      }
+    },
+    {
+      "file": "img_007.jpg",
+      "sha256": "183d1b9fd10fd764eb6ba12eacee42d09cdbbcf7f0b7bc0ccf80f615ffabdb6d",
+      "source": {
+        "file": "img_007.jpg",
+        "original_title": "DFC 5396 Night shift at the loading bay delivery trucks parked inside a dimly lit warehouse in Pattaya.jpg",
+        "author": "PattayaPatrol",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:DFC_5396_Night_shift_at_the_loading_bay_delivery_trucks_parked_inside_a_dimly_lit_warehouse_in_Pattaya.jpg"
+      }
+    },
+    {
+      "file": "img_008.jpg",
+      "sha256": "0006963df478decb7a93189f896c715f329e67ca51e1e767894a7579948929cb",
+      "source": {
+        "file": "img_008.jpg",
+        "original_title": "DFC 1690 Nighttime street scene in a busy urban market with motorbikes parked and riders in reflective vests navigating through crowds and storefronts.jpg",
+        "author": "PattayaPatrol",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:DFC_1690_Nighttime_street_scene_in_a_busy_urban_market_with_motorbikes_parked_and_riders_in_reflective_vests_navigating_through_crowds_and_storefronts.jpg"
+      }
+    },
+    {
+      "file": "img_009.jpg",
+      "sha256": "c393715075640aae17a8268f85f63bea2f35970a2299082e688e6f9d59cac8ab",
+      "source": {
+        "file": "img_009.jpg",
+        "original_title": "Cyclo Tour, Hue, Vietnam (7073477611).jpg",
+        "author": "David McKelvey from Brisbane, Australia",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Cyclo_Tour,_Hue,_Vietnam_(7073477611).jpg"
+      }
+    },
+    {
+      "file": "img_010.jpg",
+      "sha256": "1b1398bd5221f9d72989af0fc1d8a8ee87df8af03343bb1d68ce365412224d3c",
+      "source": {
+        "file": "img_010.jpg",
+        "original_title": "Street seller of fingered citrons in Old Town of Hanoi, 20240204 1335 5772.jpg",
+        "author": "Jakub Hałun",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Street_seller_of_fingered_citrons_in_Old_Town_of_Hanoi,_20240204_1335_5772.jpg"
+      }
+    },
+    {
+      "file": "img_011.jpg",
+      "sha256": "9d9623913e497ed050fece0d3278a3030d455fb5d1443f67094d98e35f91d0b7",
+      "source": {
+        "file": "img_011.jpg",
+        "original_title": "DSC 9367 A costumed Predator character overlooking a row of intricately decorated custom motorcycles at an outdoor festival.jpg",
+        "author": "PattayaPatrol",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:DSC_9367_A_costumed_Predator_character_overlooking_a_row_of_intricately_decorated_custom_motorcycles_at_an_outdoor_festival.jpg"
+      }
+    },
+    {
+      "file": "img_012.jpg",
+      "sha256": "a9ba9d8d92cb54db7abc4665870083b008712103427a0a85a2c13dad60b58b24",
+      "source": {
+        "file": "img_012.jpg",
+        "original_title": "DSCF0725 A pickup truck parked on a narrow city street with its bed filled with boxes and bags of groceries and produce.jpg",
+        "author": "PattayaPatrol",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:DSCF0725_A_pickup_truck_parked_on_a_narrow_city_street_with_its_bed_filled_with_boxes_and_bags_of_groceries_and_produce.jpg"
+      }
+    },
+    {
+      "file": "img_013.jpg",
+      "sha256": "4063d2f8a838d04664e02f42e31a7e5b8dc708113d85bc98a99cd625febcc783",
+      "source": {
+        "file": "img_013.jpg",
+        "original_title": "DFC 2484 A rain-slicked city street at night with palm trees and string lights illuminating an outdoor seating area in front of a brightly lit building.jpg",
+        "author": "PattayaPatrol",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:DFC_2484_A_rain-slicked_city_street_at_night_with_palm_trees_and_string_lights_illuminating_an_outdoor_seating_area_in_front_of_a_brightly_lit_building.jpg"
+      }
+    },
+    {
+      "file": "img_014.jpg",
+      "sha256": "571ec1c8214e87c2b4da520d25acd68d3726d667939e9351c49f51aa971f6dbb",
+      "source": {
+        "file": "img_014.jpg",
+        "original_title": "Crossing a Saigon Street.jpg",
+        "author": "Lucas Jans",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Crossing_a_Saigon_Street.jpg"
+      }
+    },
+    {
+      "file": "img_015.jpg",
+      "sha256": "5a07a909f2ae8af04524db6a66176d1c77c3a6b76d9cc849d65e842e73e9291c",
+      "source": {
+        "file": "img_015.jpg",
+        "original_title": "00a 1509 Montib Car Urb Rain X10 (199322973).jpeg",
+        "author": "\nMarsel Minga",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:00a_1509_Montib_Car_Urb_Rain_X10_(199322973).jpeg"
+      }
+    },
+    {
+      "file": "img_016.jpg",
+      "sha256": "270e18faba9576023e5217827726b453c34cf9940303aa6bed8af255fff327d0",
+      "source": {
+        "file": "img_016.jpg",
+        "original_title": "BKK CT026.jpg",
+        "author": "Benutzer:Da",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:BKK_CT026.jpg"
+      }
+    },
+    {
+      "file": "img_017.jpg",
+      "sha256": "7b2720ef410aca132b0c78bc1ac9c4f44d3667801f0f38ce47de8626121e0aee",
+      "source": {
+        "file": "img_017.jpg",
+        "original_title": "Duke of Wellington statue, Glasgow - traffic cone hat and gull, 2025.jpg",
+        "author": "Zeete",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Duke_of_Wellington_statue,_Glasgow_-_traffic_cone_hat_and_gull,_2025.jpg"
+      }
+    },
+    {
+      "file": "img_018.jpg",
+      "sha256": "756e1f147b4f6581e72f4dcb63b108b420cee0e8e4f88bb5870462a3be75b51d",
+      "source": {
+        "file": "img_018.jpg",
+        "original_title": "Předvolební billboard na Praze 4 (Lukáš Zicha – Starostové).jpg",
+        "author": "Martin2035",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:P%C5%99edvolebn%C3%AD_billboard_na_Praze_4_(Luk%C3%A1%C5%A1_Zicha_%E2%80%93_Starostov%C3%A9).jpg"
+      }
+    },
+    {
+      "file": "img_019.jpg",
+      "sha256": "6d1f1ceb0e058b8783b262aae50f94a6994a6297833f80bf795f4bf6ab98db78",
+      "source": {
+        "file": "img_019.jpg",
+        "original_title": "View of the Dangermouse car in the Hamley's Toy Parade - geograph.org.uk - 5200140.jpg",
+        "author": "Robert Lamb ",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:View_of_the_Dangermouse_car_in_the_Hamley%27s_Toy_Parade_-_geograph.org.uk_-_5200140.jpg"
+      }
+    },
+    {
+      "file": "img_020.jpg",
+      "sha256": "abee5ee5a5067ef5c1f2303a2262ab5adab4b482aeacb757710d0bed0c4d24da",
+      "source": {
+        "file": "img_020.jpg",
+        "original_title": "Rainbow in a Car Mirror.jpg",
+        "author": "Aimee Knight",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Rainbow_in_a_Car_Mirror.jpg"
+      }
+    },
+    {
+      "file": "img_021.jpg",
+      "sha256": "d035d96b613f152a27c6eec55b6a2aa5117ac09725b8a6e302832980dd98b6fa",
+      "source": {
+        "file": "img_021.jpg",
+        "original_title": "Vietnam (3998449040).jpg",
+        "author": "M M from Switzerland",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Vietnam_(3998449040).jpg"
+      }
+    },
+    {
+      "file": "img_022.jpg",
+      "sha256": "b8b20c676e22b8a396473e792867a0928c50ec1da8dd69021b3bdede10eb0a41",
+      "source": {
+        "file": "img_022.jpg",
+        "original_title": "Motorcycle with sidecar, sunshine Fortepan 4915.jpg",
+        "author": "FOTO:Fortepan — ID 4915: Adományozó/Donor: Unknown. archive ",
+        "license": "Public domain",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Motorcycle_with_sidecar,_sunshine_Fortepan_4915.jpg"
+      }
+    },
+    {
+      "file": "img_023.jpg",
+      "sha256": "88d5cf72ad87df5af3d59421c3148f463addc4efb0a3e032949ada8c1c39f2b0",
+      "source": {
+        "file": "img_023.jpg",
+        "original_title": "Cyclo Ahead, Hue, Vietnam (7073475837).jpg",
+        "author": "David McKelvey from Brisbane, Australia",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Cyclo_Ahead,_Hue,_Vietnam_(7073475837).jpg"
+      }
+    },
+    {
+      "file": "img_024.jpg",
+      "sha256": "d99ea4b3c4918ff0837ab9861707410dd486c40fd612e01399f04766ce50e914",
+      "source": {
+        "file": "img_024.jpg",
+        "original_title": "1977 AMC Pacer DL wagon in black with black bucket seat interior at Rambler Ranch 2of2.jpg",
+        "author": "CZmarlin  — Christopher Ziemnowicz, a photo credit would be ",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:1977_AMC_Pacer_DL_wagon_in_black_with_black_bucket_seat_interior_at_Rambler_Ranch_2of2.jpg"
+      }
+    },
+    {
+      "file": "img_025.jpg",
+      "sha256": "b91b1887166f807e1e29da59454433c5e3e67575f55acd82fa521576a6270141",
+      "source": {
+        "file": "img_025.jpg",
+        "original_title": "DSC 8420 Evening stroll along a palmlined beachfront promenade with people walking street vendors and city buildings in the distance.jpg",
+        "author": "PattayaPatrol",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:DSC_8420_Evening_stroll_along_a_palmlined_beachfront_promenade_with_people_walking_street_vendors_and_city_buildings_in_the_distance.jpg"
+      }
+    },
+    {
+      "file": "img_026.jpg",
+      "sha256": "1dcec1a169e2a679a778b8e3ccff6536f0568fcdf0735492c0ded2c28dffb939",
+      "source": {
+        "file": "img_026.jpg",
+        "original_title": "Couple on a motorbike, in a tunnel in Saigon.jpg",
+        "author": "Syced",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Couple_on_a_motorbike,_in_a_tunnel_in_Saigon.jpg"
+      }
+    },
+    {
+      "file": "img_027.jpg",
+      "sha256": "fefcd3f9031c759e4ebd0bb23d08933f5272d1ca792b72b7f95f9a86dd3cc472",
+      "source": {
+        "file": "img_027.jpg",
+        "original_title": "Pickup Truck Monument, Oak Hill Memorial Park, San Jose, Calif.jpg",
+        "author": "KaseyWallace",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pickup_Truck_Monument,_Oak_Hill_Memorial_Park,_San_Jose,_Calif.jpg"
+      }
+    },
+    {
+      "file": "img_028.jpg",
+      "sha256": "55ba80c2744eb867756de7aecb67ee1b82c19c10b714c2b7291ea8fef15b2fda",
+      "source": {
+        "file": "img_028.jpg",
+        "original_title": "Hard Times Cafe pickup truck with yorse parked along King Street.jpg",
+        "author": "Ser Amantio di Nicolao",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hard_Times_Cafe_pickup_truck_with_yorse_parked_along_King_Street.jpg"
+      }
+    },
+    {
+      "file": "img_029.jpg",
+      "sha256": "7c11f73db3534502ba10e56f82c13e6fad35e9acd303f908a04e0f142726376a",
+      "source": {
+        "file": "img_029.jpg",
+        "original_title": "Dangerous load on a motorbike.jpg",
+        "author": "Stougard",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dangerous_load_on_a_motorbike.jpg"
+      }
+    },
+    {
+      "file": "img_030.jpg",
+      "sha256": "e71909d06b63f7892add0e3f6d4313b81268cfa5c482112c5433e2632b3e3e19",
+      "source": {
+        "file": "img_030.jpg",
+        "original_title": "Motorbikes in Saigon (1348233930).jpg",
+        "author": "thalling55",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Motorbikes_in_Saigon_(1348233930).jpg"
+      }
+    },
+    {
+      "file": "img_031.jpg",
+      "sha256": "c0a1dc1b08e031704dfdcf36a3f9d90f487a148cc50706a74a01415cd81f2c9d",
+      "source": {
+        "file": "img_031.jpg",
+        "original_title": "Kangding Road and Small-North Kangding Store at night 20221214.jpg",
+        "author": "迷惘的人生",
+        "license": "CC BY-SA 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kangding_Road_and_Small-North_Kangding_Store_at_night_20221214.jpg"
+      }
+    },
+    {
+      "file": "img_032.jpg",
+      "sha256": "e7fe782b17f629d305a1c354d3cb4a00bb75c79dd8ae33c711cc435b4fa86087",
+      "source": {
+        "file": "img_032.jpg",
+        "original_title": "ETS Bus Stop Rush Hour, 108 Street & 104 Avenue 10-25-2022.jpg",
+        "author": "TagaSanPedroAko",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:ETS_Bus_Stop_Rush_Hour,_108_Street_%26_104_Avenue_10-25-2022.jpg"
+      }
+    },
+    {
+      "file": "img_033.jpg",
+      "sha256": "1734c4840ff48001ff8812d7960ad95d5d594bbcbf953d8e5a88ff1c5dbc0a48",
+      "source": {
+        "file": "img_033.jpg",
+        "original_title": "Glasgow. Buchanan Street. 'Mannequin'.jpg",
+        "author": "Daniel Naczk",
+        "license": "CC BY-SA 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Glasgow._Buchanan_Street._%27Mannequin%27.jpg"
+      }
+    },
+    {
+      "file": "img_034.jpg",
+      "sha256": "1fcbf2466e3d35c948c324f3d7d92ef68a2b3a55c7794b9d525b8c0a0e79e7c8",
+      "source": {
+        "file": "img_034.jpg",
+        "original_title": "Crossing the Road, Cyclo Tour, Hue, Vietnam (7073492265).jpg",
+        "author": "David McKelvey from Brisbane, Australia",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Crossing_the_Road,_Cyclo_Tour,_Hue,_Vietnam_(7073492265).jpg"
+      }
+    },
+    {
+      "file": "img_035.jpg",
+      "sha256": "b01d3cbf176ca7a009628b69456e6f7ee1f8843a951e29cbb5b9d572f902c34c",
+      "source": {
+        "file": "img_035.jpg",
+        "original_title": "Overloaded Auto Rickshaw Hyderabad 2006.jpg",
+        "author": "Linda N.",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Overloaded_Auto_Rickshaw_Hyderabad_2006.jpg"
+      }
+    },
+    {
+      "file": "img_036.jpg",
+      "sha256": "cdff16cb883755e3e552be7b5de914f5f5f75fb8f444a5ebe6380ef35b09ddfc",
+      "source": {
+        "file": "img_036.jpg",
+        "original_title": "CMC Veryca truck on Kaifeng Street 20131014.jpg",
+        "author": "Solomon203",
+        "license": "CC BY-SA 3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:CMC_Veryca_truck_on_Kaifeng_Street_20131014.jpg"
+      }
+    },
+    {
+      "file": "img_037.jpg",
+      "sha256": "e380d89e08435cf7ebafb68891d7fbdd250c69cc11e052395d33c4f55e1cfb61",
+      "source": {
+        "file": "img_037.jpg",
+        "original_title": "GO Transit pickup with Master 75 Truck Cap.jpg",
+        "author": "PvOberstein",
+        "license": "CC0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:GO_Transit_pickup_with_Master_75_Truck_Cap.jpg"
+      }
+    },
+    {
+      "file": "img_038.jpg",
+      "sha256": "58c7932fb805d4ddd035fd6366772e1ae06b3728035595ec36bb63601482b9d4",
+      "source": {
+        "file": "img_038.jpg",
+        "original_title": "Shop window with collection of toys, dolls, car models etc. in Munich, Germany (2023) (cropped).jpg",
+        "author": "Pittigrilli",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Shop_window_with_collection_of_toys,_dolls,_car_models_etc._in_Munich,_Germany_(2023)_(cropped).jpg"
+      }
+    },
+    {
+      "file": "img_039.jpg",
+      "sha256": "a365c96735aa053247ccb5b6dcd96c5367d781c2b1d8f83a6802bd0fcef305a7",
+      "source": {
+        "file": "img_039.jpg",
+        "original_title": "Cyclo Tour, Hue, Vietnam (7073518923).jpg",
+        "author": "David McKelvey from Brisbane, Australia",
+        "license": "CC BY 2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Cyclo_Tour,_Hue,_Vietnam_(7073518923).jpg"
+      }
+    },
+    {
+      "file": "img_040.jpg",
+      "sha256": "e16ee9a3cfe6ea33457e7562b7f7d5bea9f63eee5cce42180ba25282dc004e95",
+      "source": {
+        "file": "img_040.jpg",
+        "original_title": "Traffic in central Bangkok, Thailand.jpg",
+        "author": "Vyacheslav Argenberg",
+        "license": "CC BY 4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Traffic_in_central_Bangkok,_Thailand.jpg"
+      }
+    }
+  ]
+}
