@@ -1,0 +1,4 @@
+{
+  "kind": "editorial",
+  "summary": "Giữ nguyên taxonomy và toàn bộ các quy tắc R-01 đến R-09 của guideline v1.0. Các bất đồng ở Pha 4 phát sinh do thành viên 246 không tuân thủ guideline (chỉ gán 4 lớp cơ bản, bỏ sót các lớp bus, tuk_tuk, bicycle, van, ignore_region) và ước lượng sai thuộc tính che khuất. Bản v1.1 tái khẳng định tính tuân thủ quy tắc v1.0 và chuẩn hóa bộ nhãn theo các bounding box hợp lệ của thành viên 225."
+}
