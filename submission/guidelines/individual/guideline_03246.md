@@ -4,7 +4,7 @@
 > Đừng sửa file này. Hãy copy sang `submission/guidelines/individual/` rồi sửa bản của bạn
 > (xem `GUIDE.md`, Pha 1).
 
-- Mã thành viên: `101` (đổi thành mã 3 chữ số của bạn, đổi tên file thành `guideline_<mã>.md`)
+- Mã thành viên: `03246` (đổi thành mã 3 chữ số của bạn, đổi tên file thành `guideline_<mã>.md`)
 - Phiên bản: v0 → v0.1-cá-nhân
 - Loại nhãn: bounding box (hộp chữ nhật) trên ảnh đường phố
 - Công cụ: CVAT, xuất COCO 1.0
